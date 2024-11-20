@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Tap",
-    "slug": "Tap",
+    "slug": "tap-tap-game",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3a7ddae3-ddc6-4b36-8544-7ab9f3ee5d8b"
+      }
+    },
+    "owner": "rashid_khan"
   }
 }
