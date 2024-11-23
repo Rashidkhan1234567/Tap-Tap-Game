@@ -58,7 +58,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🛑 **Game Rules**
+## 🛑 **Game Rules** 
 - Time is limited — make every tap count!
 - Be quick to win and progress through the levels.
 - Enjoy the game and aim for the highest score!
